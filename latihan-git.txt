@@ -1,4 +1,4 @@
 Latihan git
 -membuat akun github
--mengetahui comand dasar GIT
+-mengetahui command dasar GIT
 -integrasi GIT
